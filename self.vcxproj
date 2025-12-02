@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="double&amp;float.c" />
     <ClCompile Include="frank_030.（整形最后一课）.c" />
     <ClCompile Include="frank_企业实际开发的整形说明.c" />
     <ClCompile Include="run text.c" />

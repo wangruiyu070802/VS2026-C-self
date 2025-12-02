@@ -33,5 +33,8 @@
     <ClCompile Include="frank_030.（整形最后一课）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="double&amp;float.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

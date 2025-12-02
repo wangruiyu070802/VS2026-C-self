@@ -1,9 +1,21 @@
 #include <stdio.h>
-#include <stdint.h>
-int32_t main() {
-	double myDoubleNum = 0.6;
+int main() {
+	
+	float num = 123.456f;
+	
+	//%f
+	printf("Using %%f: %f\n",num);
 
-	printf("%.2lf",myDoubleNum);
+	//%e %E
+	printf("Using %%e: %e\n",num);
+	printf("Using %%E: %E\n",num);
+
+	//%a %A 
+	printf("Using %%a: %a\n",num);
+	printf("Using %%A: %A\n",num);
+	
+	
+	
 
 	return 0;
 }

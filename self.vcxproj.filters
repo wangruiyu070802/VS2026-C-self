@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="run text.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="frank_企业实际开发的整形说明.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -34,6 +31,30 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="double&amp;float.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GcdRecursive.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="frank_019_integer-flow.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="text.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="frank_052_多重赋值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="frank_055_按位移位运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="056_frank_位运算补充.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057_frank_关系运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="059-061_frank_按位运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

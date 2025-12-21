@@ -39,9 +39,6 @@
     <ClCompile Include="frank_019_integer-flow.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="text.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="frank_052_多重赋值.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -54,7 +51,13 @@
     <ClCompile Include="057_frank_关系运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="059-061_frank_按位运算符.c">
+    <ClCompile Include="059-062_frank_按位运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Other.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="075-frank_if&amp;else_if.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
